@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asanaa-data
-- 👀 I’m interested in python programming, data scince and AI
+- 👀 I’m interested in python programming, data science and AI
 - 🌱 I’m currently learning python for data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...IG: fotoAmateur_pix
