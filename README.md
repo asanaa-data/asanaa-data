@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asanaa-data
 - 👀 I’m interested in python programming, data science and AI
 - 🌱 I’m currently learning python for data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data science projects, research etc
 - 📫 How to reach me ...IG: fotoAmateur_pix
 - ⚡ Fun fact: love F1, cars, history, programming and photography (IG: fotoAmateur_pix)
 
